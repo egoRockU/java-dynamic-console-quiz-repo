@@ -1,3 +1,2 @@
 questions.txt
-test.txt
 General Knowledge.txt
